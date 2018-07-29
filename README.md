@@ -1,4 +1,4 @@
-# Web-development-PhotoGallery-
+# Web-development-PhotoGallery
 <p>(Permission given by Professor Nina Amenta).<br>
    Link to the class website: <a href="http://web.cs.ucdavis.edu/~amenta/s18/ecs162.html">ECS162(Web Development)</a>
 </p>
