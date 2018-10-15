@@ -6,7 +6,7 @@
 <p>  In class project, with a partner, I used full stack web development skills to build a website that contains a collection of photos. It has the functionalities: adding and delete tags for every item, suggesting searching words based on first two letters and displaying using react.js.
 The project was built from the server side. <br><br>
   It requires APIs of image analysis from Google vision Cloud, creates own database with changeability. It co-operates with Node.js modules and  React.js for self-arranging content to display.<br>
-( This website only works when the server is activated.)
+<a href="https://limitless-thicket-20551.herokuapp.com/">Please click on this and try it on! :)</a>
 </p>
 
 <p>1.The autofill feature for suggesting what tags users might want to search</p>
